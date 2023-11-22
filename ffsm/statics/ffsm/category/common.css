@@ -1,0 +1,47 @@
+.public_header {
+    height: .9rem;
+    line-height: .9rem;
+    background: #ee4d4c;
+    width: 100%;
+    position: fixed;
+    background: url(/asset/images/topbg.png) no-repeat center;
+    background-size: 100% 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 999;
+    margin: 0 auto;
+    max-width: 640px;
+}
+.public_h_con {
+    text-align: center;
+    font-size: 0.32rem;
+    color: #ffffff;
+}
+
+
+.common_header{
+    height: 1rem;
+    line-height: 1rem;
+    background: #ee4d4c;
+    width: 100%;
+    position: fixed;
+    background: url(/asset/images/topbg.png) no-repeat center;
+    background-size: 100% 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 999;
+    margin: 0 auto;
+    max-width: 640px;
+    text-align: center;
+    font-size: 0.32rem;
+    color: #ffffff;
+}
+.none{
+    width: 100%;
+    padding: 2rem 0;
+    font-size: .3rem;
+    color: #999999;
+    text-align: center;
+}

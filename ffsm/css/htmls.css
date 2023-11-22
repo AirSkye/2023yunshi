@@ -1,0 +1,241 @@
+/*=html元素设置
+=============================================================================================*/
+.clear{
+   border-top:1px solid transparent !important;
+   color:FFFFF2;
+   border-top:0;
+   clear:both;
+   line-height:0;
+   font-size:0;
+   height:0;
+   height:1%;
+}
+
+.clear2{
+   border-top:0px solid transparent !important;
+   border-top:0;
+   clear:both;
+   line-height:0;
+   font-size:0;
+   height:0;
+   height:1%;
+}
+
+
+
+.clearfix:after {
+ content: "."; 
+ display: block; 
+ height: 0; 
+ clear: both; 
+ visibility: hidden;
+}
+div,form,h1,dl,dt,dd,ul,ol,li,table,td,th{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+ul,li{
+	line-height:1.5em;
+}
+h3,h4,h5,h6{
+	padding:0;
+	margin:8px 0 0 0;
+}
+
+h3{
+	text-align:left;
+	font-size:12px;
+	font-weight:bold;
+	color:#f60;
+}
+fieldset{
+	margin:0 15px;
+	border:1px solid #ccc;
+	padding:10px;
+	
+}
+fieldset legend{
+	color:#f90;
+	font-weight:700;
+	margin:5px 0;
+}
+/*form{
+	line-height:23px;
+}*/
+form label{
+	display:block;
+	width:65px;
+	text-align:right;
+	float:left;
+	font-weight:700;
+	color:#000;
+	padding:2px 0;
+}
+#quickordeform label{
+	width:auto;
+	text-align: left;
+	font-weight: normal;
+	float:none;
+	display:inline;
+}
+form br{
+	clear:both;
+}
+img {
+	border: 0;
+}
+a{
+	color:#404040;
+	text-decoration:none;
+}
+a:hover {
+	color: #FF6633;
+	text-decoration:underline;
+}
+.dotsep{
+	background:url(dotted.gif) repeat-x bottom;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+/*=表格列表统一样式
+=============================================================================================*/
+/*.TableWrap{
+}
+.TableWrap .tab{
+}
+.TableWrap .tab li{
+	display:block;
+	float:left;
+	width:104px;
+	height:26px;
+	margin-right:2px;
+	text-align:center;
+	font-size:14px;
+	font-weight:700;
+	color:#000;
+	background:url(membertabon.gif);
+	line-height:25px;
+}
+.TableWrap .tab li a{
+	display:block;
+	width:104px;
+	height:25px;
+	font-size:12px;
+	font-weight:700;
+	color:#aaa;
+	background:url(membertab.gif);
+}
+.TableWrap .list{
+	border:1px solid #ccc;
+	border-bottom:4px solid #ccc;
+	border-collapse:collapse;
+
+}
+
+.TableWrap .list td{
+	border-bottom:1px solid #ccc;
+	padding:4px 4px;
+	text-align:center;
+}
+.TableWrap .list thead th{
+	background:url(2menubg.gif);
+	height:24px;
+	text-align:center;
+	font-size:12px;
+}
+.TableWrap .list tfoot th{
+	text-align:right;
+	border-bottom:1px dotted #ccc;
+	font-size:12px;
+}
+.TableWrap .list tfoot td{
+	text-align:right;
+	border-bottom:1px dotted #ccc;
+	font-size:12px;
+}
+.TableWrap .list .amount{
+	text-align:right;
+	font-weight:700;
+}
+.TableWrap .list .time{
+	text-align:center;
+}
+.TableWrap .list .info{
+	color:#999;
+	text-align:left;
+}
+
+.TableWrap .data{
+	margin:6px 0; 
+	border-left:1px solid #ccc;
+	border-top:1px solid #ccc;
+	border-right:1px solid #ccc;
+	border-bottom:4px solid #f2f2f2;
+	border-collapse:collapse;
+
+}
+.TableWrap .data td,
+.TableWrap .data th{
+	border-bottom:1px solid #ccc;
+	padding:4px 4px;
+	text-align:left;
+}
+.TableWrap .data th{
+	text-align:right;
+}
+*//*=字体颜色设置
+=============================================================================================*/
+.p9black {
+	color: #000;
+	font-weight:700;
+}
+.p9v {
+	color: #ccc;
+}
+.p9gray {
+	color: #666;
+	
+}
+.p9navyblue {
+	color: #369;
+}
+.p9navygreen {
+	color: #090;
+}
+.p9orange {
+	color: #f63;
+}
+.inputstyle {
+	border: 1px solid #ccc;
+	background-color: #fff;	
+}
+
+.buttonstyle {
+	border:3px double #bbb;
+	border-top:3px double #ddd;
+	border-left:3px double #ddd;
+	background-color: #fff;
+	font-size:12px;
+	background:url(buttonbg.gif);
+	height:25px;
+	padding-top:3px
+}
+.textright{
+	text-align:right;
+}
+.p9blackb {
+	color: #000;
+	font-weight:700;
+	padding-left:6px;
+}
+.p9orangeb {
+	color: #f50;
+	font-weight:700;
+	padding-left:6px;
+}
+.p14redb {
+	color:#f60;
+	font-size:14px;
+	font-weight:700;
+}

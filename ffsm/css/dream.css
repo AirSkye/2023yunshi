@@ -1,0 +1,170 @@
+.dreamwrap{   width:1000px; margin:0 auto; background:#930009;}
+.dreamwrap2{ width:100%; margin:0 auto;}
+.dreamwrap3{ width:100%; margin:0 auto; }
+
+.dreamwrap6{ width:100%; margin:0 auto;background:#0B0B0D; }
+
+.dreamwrap5{ width:1000px; margin:0 auto; }
+
+.dreamwrap4{ width:100%; margin:0 auto;}
+
+
+.clear{ clear:both;}
+
+.dtopwrap{ background:#930009; height:30px; border-bottom:1px solid #5a0006;}
+
+
+.dtopwrop{ background:url(bodybg-1.jpg)  repeat; height:106px; border-bottom:1px solid #5a0006;}
+
+
+
+
+
+.dlogin{ float:left; line-height:25px; color:#e2bc65;}
+
+.dtopnav{ float:right;line-height:25px;}
+.dlogin a,.dtopnav a{ color:#e2bc65;}
+.dlogin a:hover,.dtopnav a:hover{ color:#e2bc65; text-decoration:underline;}
+.dtopnav a{ margin:0px 6px;}
+.dcart{ float:right; line-height:25px;}
+.dcart a{ color:#e2bc65;}
+
+.dtopinfo{  width:1000px;margin:0 auto; background:url(hinfobg.jpg) no-repeat 0 0; padding:6px 0px;}
+.dlogo{ float:left;}
+.dsearch{ float:right; width:432px; height:31px; padding:3px 0px; background:url(searchbg.jpg) no-repeat; margin:30px 10px 10px 10px;}
+.SearchBar{padding:0;}
+.SearchBar table td{padding:0;}
+.SearchBar .search_label span{display:none;}
+.dsearch .SearchBar .keywords{width:338px;height:23px; line-height:23px; border:none; padding:4px 6px; background:none; outline:none;}
+.SearchBar .btn_search{	border:none;width:78px;height:31px;font-size:0;overflow:hidden;
+   						line-height:9999px;cursor:pointer;margin-top:0px; background:none;}
+.SearchBar .btn_advsearch{ display:none;}
+.dnum{ float:right; margin:20px 0px 10px 20px;}
+
+.dmainnavwrap{ background:url(navbg.jpg) ; repeat-x 0 0; height:53px; padding:3px 0px 4px 0px; overflow:hidden;}
+.dmainnav{ float:left; width:745px; height:44px; padding:5px 0px 4px 255px; background:url(mainnav.jpg) no-repeat 0 0;}
+.dmainnav a{ float:left; width:56px; height:44px;margin-left:6px; text-indent:-99999px;}
+
+
+.dmainnav .nav1:hover{ background:url(mainnav.jpg) no-repeat -262px -65px; }
+.dmainnav .nav2:hover{ background:url(mainnav.jpg) no-repeat -324px -65px;}
+.dmainnav .nav3:hover{ background:url(mainnav.jpg) no-repeat -386px -65px;}
+.dmainnav .nav4:hover{ background:url(mainnav.jpg) no-repeat -448px -65px;}
+.dmainnav .nav5:hover{ background:url(mainnav.jpg) no-repeat -510px -65px;}
+.dmainnav .nav6:hover{ background:url(mainnav.jpg) no-repeat -572px -65px;}
+.dmainnav .nav7:hover{ background:url(mainnav.jpg) no-repeat -634px -65px;}
+.dmainnav .nav8:hover{ background:url(mainnav.jpg) no-repeat -696px -65px;}
+.dmainnav .nav9:hover{ background:url(mainnav.jpg) no-repeat -758px -65px;}
+.dmainnav .nav10:hover{ background:url(mainnav.jpg) no-repeat -820px -65px;}
+.dmainnav .nav11:hover{ background:url(mainnav.jpg) no-repeat -882px -65px;}
+.dmainnav .nav12:hover{ background:url(mainnav.jpg) no-repeat -944px -65px;}
+
+
+.focuswrap{ width:100%; height:438px;}
+
+.dallwrap{ background:url(dbg2.jpg) repeat-x 0 0; }
+.dallwrap2{background:url(dbg2.jpg) repeat-x 0 0; }
+.dreamwrap2{ width:width:100%; margin:0 auto; }
+.zhutop{ float:left;width:100%; height:16px; background:url(dbg2-1.jpg) repeat ;}
+.zhubody{ float:left; width:100%;   position:relative;}
+.zhubody_left { position:fixed; width:103px; height:341px; top:200px; left:0px;}
+.zhubody_right { position:fixed; width:103px; height:341px; top:200px; right:0px;}
+.zhubottom{float:left; width:100%; height:40px; background:#990000;}
+
+.dwrap{ width:1000px; margin:0 auto;  padding-bottom:30px; }
+
+.dwrap-m{ width:1400px; margin:0 auto;  padding-bottom:30px; }
+
+.dwrap-1{ float:left;width:100%; padding-bottom:10px; }
+
+.dnewsad{ float:left;}
+.dnews{ float:right; width:228px; min-height:50px;}
+
+.dnews .Article-Tabs{overflow:auto;zoom:1; /*border-bottom:1px solid #b3b3b3;background:#fff2d1;padding:0 10px;margin:1px 0 0 0; */ border:none; background:url(tabbg.jpg) repeat-x 0 bottom;; padding:0; margin:0;}
+.dnews .Article-Tabs div{
+	float:left;
+/*	padding:2px 5px;
+	background:#f7fcff;*/ padding:0; width:109px; height:31px; line-height:30px; border:none; text-align:center;
+	cursor:pointer; background:url(newtab.gif) no-repeat 0 0; margin-left:5px; color:#bc0202; 
+}
+.dnews .Article-Tabs .current{
+	background:#fff url(../images/hotgoods.gif) repeat-x 0 7px; background:url(newtab.gif) no-repeat 0 -35px;
+	font-weight:bold; 
+	border:1px solid #999;	border-bottom:1px solid #fff;  border:none;
+
+	color:#fff; 
+}
+.dnews .ArticleList{ padding:4px 4px 4px 0px; min-height:202px; border:1px solid #c2a27f; border-top:none; background:#fff2d1;}
+
+.dnews .ArticleList td{ padding:2px 5px; background:url(dottedline3.gif) no-repeat 7px bottom;}
+.dnews .ArticleList td a{ padding-left:16px;}
+
+
+.dtit1{ float:left; width:100%; height:99px; height:46px; background:url(dtit1.jpg) no-repeat;}
+.dadbody{ float:left;}
+.dadbody .AdvBanner{ float:left;}
+
+.dtit2{ float:left; width:1000px; height:124px; background:url(dtit2.jpg) no-repeat;}
+.dadbody2-1{ float:left; width:970px; padding:0px 10px 10px; background:#840103;}
+
+.dxiaobody{ width:1000px; overflow:hidden; background:url(xiaobg.jpg) repeat-x 0 0;}
+
+.dxiaobody1{ width:1000px; padding:25px 5px; overflow:hidden; background:url(xiaobg.jpg) repeat-x 0 0;}
+
+.dxiaobody .AdvBanner{ float:left; margin:10px 14px 10px 15px;}
+
+.dgoodsbody{float:left;width:100%;padding:0px; }
+
+.dgoodsbody2{float:left; width:100%; padding:0px;}
+.dtit5{ float:left; width:1000px; height:99px; background:url(dichang.jpg) no-repeat;}
+.dtit3{ float:left; width:1000px; height:99px; background:url(renchang.jpg) no-repeat;}
+.dtit4{ float:left; width:1000px; height:99px; background:url(qifu.jpg) no-repeat;}
+.dnavad{ width:1000px; height:307px; no-repeat 0 0; padding:0px 0px 0px 0px; overflow:hidden;}
+.dnavad a{ float:left; display:block; width:189px; height:189px; margin-left:6px; text-indent:-99999px;}
+.dnavad .dnav1:hover{ background:url(bnavbg.jpg) no-repeat -10px -228px;}
+.dnavad .dnav2:hover{ background:url(bnavbg.jpg) no-repeat -205px -228px;}
+.dnavad .dnav3:hover{ background:url(bnavbg.jpg) no-repeat -400px -228px;}
+.dnavad .dnav4:hover{ background:url(bnavbg.jpg) no-repeat -595px -228px;}
+.dnavad .dnav5:hover{ background:url(bnavbg.jpg) no-repeat -790px -228px;}
+
+
+.footartwrap{  width:1000px;margin:0 auto;  padding:8px 0px; background:#fbf8f4; margin-top:0px;}
+.footart{ float:left; margin-right:12px; width:238px;}
+
+
+.footartad{ float:right; width:280px padding-right;}
+
+.dlinks{  width:878px;margin:0 auto; margin-top:20px; padding-left:122px; background:url(linkstit.jpg) no-repeat 0 0; background-color:#be0002;}
+.dlinks li{ padding-top:4px;}
+.dlinks a{ color:#fdf0b0;}
+.dlinks a:hover{ color:#fdf0b0; text-decoration:underline;}
+.dfootad{  width:1000px;margin:0 auto; text-align:center; padding:20px 0px;}
+.dfootad .AdvBanner{ float:left; margin:10px 12px 10px 12px;}
+.dbottomnav{  width:990px; margin:0 auto;text-align:center; height:32px; margin:5px 0px; background:url(footlogo.jpg) no-repeat center 0;}
+
+.dbottomnav a{ line-height:32px; margin:0px 9px; }
+
+.dbottomnav .flogol{ margin-right:138px;}
+
+
+
+
+
+
+.dborder8 .top{ font-weight:bold; padding-left:12px;}
+.footart .TreeList .cat2{ padding-left:15px;}
+.dgoodsbody .GoodsList,.dgoodsbody2 .GoodsList{ padding-top:10px; min-width:740px; }
+.dgoodsbody .GoodsList .itemsWrap{ margin:0px 0px 8px 8px; width:235px !important;}
+.dgoodsbody .GoodsList h6 { white-space:normal; height:38px; line-height:19px; margin-bottom:5px; background:url(dottedline.gif) no-repeat center bottom;}
+.GoodsList h6 a{ font-weight:normal;}
+.GoodsList h6 a:hover{  color:#fddd22;}
+/*.dgoodsbody .GoodsList .itemsWrap.last{ margin:0px;}*/
+.dgoodsbody .GoodsList .item{ background:#b98637; padding:2px 0px; padding-bottom:4px;}
+.GoodsList .price1{ font-weight:bold;}
+.price1{ color:#e00000;}
+/*.dgoodsbody .GoodsList .itemsWrap .price0{ color:#fff;}*/
+.dgoodsbody2 .GoodsList .itemsWrap{ margin:0px 0px 10px 8px;}
+.dgoodsbody2 .GoodsList .item{ background:#b98637; padding:4px 0px;}
+.dgoodsbody2 .GoodsList h6 { white-space:normal; height:38px; line-height:19px; margin-bottom:5px; background:url(dottedline.gif) no-repeat center bottom;}
+
+
